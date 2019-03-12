@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "quizzical-fermat-97940f.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "spectrum"
